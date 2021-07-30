@@ -1,0 +1,12 @@
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\bin\Debug\net5.0\TestAppLibrary.deps.json
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\bin\Debug\net5.0\TestAppLibrary.dll
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\bin\Debug\net5.0\ref\TestAppLibrary.dll
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\bin\Debug\net5.0\TestAppLibrary.pdb
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.csproj.AssemblyReference.cache
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.AssemblyInfoInputs.cache
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.AssemblyInfo.cs
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.dll
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\ref\TestAppLibrary.dll
+C:\Users\frsva\Desktop\TestWork\TestAppLibrary\TestAppLibrary\obj\Debug\net5.0\TestAppLibrary.pdb
